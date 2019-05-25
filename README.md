@@ -135,7 +135,7 @@ For this Project, I have used:
 
 [Materialize CSS](https://materializecss.com)
 
-- The project uses Bootstrap 3.3.7 to Layout the html content on different screen sizes.
+- The project uses Materialize CSS 1.0.0 to Layout the html content on different screen sizes.
 
 [FontAwesome](https://fontawesome.com)
 
