@@ -1,0 +1,171 @@
+
+
+body { 
+  font-family: 'Roboto', sans-serif;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #ef5350;
+
+}
+
+nav .brand-logo {
+  font-family: 'Satisfy', cursive;
+  
+
+}
+
+.nav-wrapper {
+  padding: 0 50px;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color:#ef5350;
+}
+
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+
+.hvr-sweep-to-bottom {
+  background: rgba (0, 0, 0, 0.2);
+  height: 0px;
+}
+
+
+.section-intro {
+  height:100%;
+  width:100%;
+}
+  
+  .header {
+    margin-top: 80px;
+  }
+
+  .header-subtitle {
+    margin-top:50px;
+    font-size:1.3em;
+  }
+  
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 812px) {
+  #index-banner .section {
+    top: 0;
+  }
+.nav-wrapper {
+  padding: 0 15px;
+ }
+}
+
+.col-services {
+  margin-top:60px;
+  margin-bottom:100px;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#services h5 {
+  font-size:1.3em;
+  line-height: 1.6em;
+  
+}
+
+.section-Registration {
+  height:100%;
+  width:100%;
+}
+
+.Registration-icon {
+  font-size: 7em;
+  margin-top:30px;
+}
+
+.Registration-subtitle {
+  font-size:1.3em;
+  margin-top:60px;
+  
+}
+
+.btn-Registration {
+  width: 100% ;
+  
+}
+
+
+.btn-referral {
+  width: 100% ;
+  color: #ef5350 ;
+}
+
+.Host-icon {
+  font-size: 7em;
+  margin-top:30px;
+}
+
+.Host-subtitle {
+  font-size:1.3em;
+  margin-top:60px;
+  line-height:2em;
+}
+
+.btn-Host {
+  width: 100% ;
+  
+}
+
+
+footer.page-footer {
+  margin: 0;
+  background-color: #305467
+}
+
+.social-icon {
+  font-size: 1.5em;
+  color: #fff;
+  border-radius: 100%;
+  padding:0 15px;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+  
+}
+
+
+.social-icon:hover {
+  color:#ef3550;
+  
+}
+
+.circle-responsive-img {
+  height: 50%;
+  width: 50%;
+}
+
+.card-content {
+  color: #e0f2f1;
+}
+
